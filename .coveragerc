@@ -1,0 +1,7 @@
+[run]
+source = hub
+omit =
+    *tests*
+    *migrations*
+    *settings*
+    *wsgi*
